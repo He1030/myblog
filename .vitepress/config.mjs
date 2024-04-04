@@ -5,7 +5,7 @@ export default defineConfig({
   base:"/myblog/",
   title: "北梦程序员文档分享网站",
   description: "A VitePress Site",
-  head: [["link", { rel: "icon", href: "/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/myblog/logo.png" }]],
   themeConfig: {
     //设置nav左侧图片logo
     logo:"/logo.png",
