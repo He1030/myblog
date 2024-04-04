@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a5 as r}from"./chunks/framework.CWxrETVd.js";const m=JSON.parse('{"title":"本站作者 - 北梦程序员","description":"","frontmatter":{},"headers":[],"relativePath":"作者.md","filePath":"作者.md"}'),o={name:"作者.md"},n=r("",10),i=[n];function s(_,c,h,d,l,p){return t(),e("div",null,i)}const f=a(o,[["render",s]]);export{m as __pageData,f as default};
