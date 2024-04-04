@@ -73,7 +73,7 @@ export default defineConfig({
     ],
     //设置页脚部分
     footer:{
-      copyright:"本网站所有解释权为北梦所有"
+      copyright:"本网站 ©2023 所有解释权为北梦所有"
     }
   }
 })
