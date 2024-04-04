@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:"myblog",
+  // base:"myblog",
   title: "北梦程序员文档分享网站",
   description: "A VitePress Site",
   head: [["link", { rel: "icon", href: "/logo.png" }]],
