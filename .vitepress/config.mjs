@@ -37,7 +37,8 @@ export default defineConfig({
       { 
         text: '后端', 
         items:[
-          {text:"SpringCloud",link:"/docs/backed/springCloud/Centos7安装Docker.md"},
+          {text:"Docker",link:"/docs/backed/springCloud/Centos7安装Docker.md"},
+          {text:"RabbitMq",link:"/docs/backed/rabbitmq/rabbitmq的使用.md"},
           {text:"MySQL",link:"/docs/backed/mysql/MySQL基本知识.md"}
         ]  
       }
