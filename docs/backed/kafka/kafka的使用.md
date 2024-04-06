@@ -4,7 +4,7 @@
 
 1、引入kafka的依赖
 
-```
+``` xml
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-stream-kafka</artifactId>
